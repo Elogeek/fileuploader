@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "@mui/material": "^5.9.1",
+    "antd": "^4.21.7",
     "react-mui-fileuploader": "^0.2.0"
   }
 }
